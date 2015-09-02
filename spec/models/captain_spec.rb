@@ -1,5 +1,6 @@
 require 'spec_helper'
 
+
 describe Captain do
   describe "::catamaran_operators" do
     it "returns all captains of catamarans" do
